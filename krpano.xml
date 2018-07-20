@@ -1,0 +1,20 @@
+﻿<krpano>
+
+<!-- 
+<image>
+    <sphere url="./sphere.png" />
+</image> -->
+<autorotate enabled="true"
+            waittime="0.5"
+            speed="10.0"
+            />
+	<image>
+					<right url="https://ezhome-download.s3.cn-north-1.amazonaws.com.cn/panoramagram/panoramagram.right.jpg"/>
+			<left url="https://ezhome-download.s3.cn-north-1.amazonaws.com.cn/panoramagram/panoramagram.left.jpg"/>
+			<up url="https://ezhome-download.s3.cn-north-1.amazonaws.com.cn/panoramagram/panoramagram.top.jpg"/>
+			<down url="https://ezhome-download.s3.cn-north-1.amazonaws.com.cn/panoramagram/panoramagram.bottom.jpg"/>
+			<back url="https://ezhome-download.s3.cn-north-1.amazonaws.com.cn/panoramagram/panoramagram.back.jpg"/>
+			<front url="https://ezhome-download.s3.cn-north-1.amazonaws.com.cn/panoramagram/panoramagram.front.jpg"/>
+	</image>
+
+</krpano>
